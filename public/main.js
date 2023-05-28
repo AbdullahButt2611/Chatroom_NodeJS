@@ -1,3 +1,5 @@
+import io from "../server.js";
+
 (function(){
 
     const app = document.querySelector(".app");
